@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile, Ammara! 👋
+# Welcome to My GitHub Profile! 👋
 
 Hello, I'm Ammara Asif, a passionate data enthusiast and student in the Masters Data Science program.
 
