@@ -16,6 +16,12 @@ Hello, I'm Ammara Asif, a passionate data enthusiast and student in the Masters 
 - Investigating trends, patterns, and impacts on the job market.
 
 
+### [Little Lemon Booking System Project](https://github.com/aasif287/DataEngineerCapstone)
+- Comprehensive booking system for Little Lemon.
+- MySQL database design, implementation, and Python procedures.
+- Tableau integration for insightful data analysis.
+
+
 ## Skills
 
 - Python
