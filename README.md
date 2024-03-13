@@ -22,6 +22,12 @@ Hello, I'm Ammara Asif, a passionate data enthusiast and student in the Masters 
 - Tableau integration for insightful data analysis.
 
 
+### [Using Machine Learning on Predicting Olympic Medals]([https://github.com/aasif287/DataEngineerCapstone](https://github.com/aasif287/MachineLearningLinearRegression))
+- Delve into the realm of machine learning with a focus on linear regression.
+- Analyze data from the Olympics to predict the number of medals a country will earn based on the number of athletes it enters.
+- Assess the performance of the regression model by calculating the R-squared value, providing insights into the model's fit to the data.
+
+
 ## Skills
 
 - Python
